@@ -1,4 +1,4 @@
-W# Webページ概要
+# Webページ概要
 
 このプロジェクトは、以下のコンポーネントを持つレスポンシブWebページです：
 
@@ -14,10 +14,13 @@ W# Webページ概要
 - **CSS**: スタイリングとレスポンシブレイアウト
 
 ### セットアップ:
-1. HTMLの`<head>`にCSSを読み込む：
-   ```html
-   <link rel="stylesheet" href="path/to/styles.css">
+
+HTMLの`<head>`にCSSを読み込む：
+
+```html
+<link rel="stylesheet" href="path/to/styles.css">
 レイアウトやエフェクトに関連するHTMLクラス（.bg-image、.new、.list-grid-trimming、.pagetop）を使用。
+
 例:
 html
 Copy code
